@@ -14,6 +14,11 @@ const clients = [
     pageId: "110407757165436",                        // Facebook Page ID
     serverUrl: "https://barber-bot-vqfi.onrender.com" // Their Render service URL
   },
+  {
+    name: "Anar-salon",                                    // change to real name
+    pageId: "61585027208240",
+    serverUrl: "https://barber-bot-1-7maq.onrender.com"  // change to real URL
+  },
 
   // ── Add new clients below ──────────────────────────────────
   // {
