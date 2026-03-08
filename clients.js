@@ -16,7 +16,7 @@ const clients = [
   },
   {
     name: "Anar-salon",                                    // change to real name
-    pageId: "61585027208240",
+    pageId: "1071789952680910",
     serverUrl: "https://barber-bot-1-7maq.onrender.com"  // change to real URL
   },
 
