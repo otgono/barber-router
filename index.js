@@ -56,7 +56,8 @@ app.get("/webhook", (req, res) => {
 app.post("/webhook", async (req, res) => {
   // Always respond 200 immediately so Facebook doesn't retry
   res.sendStatus(200);
-
+console.log("📥 Raw entry IDs:", req.body.entry?.map(e => e.id));
+  console.log("📋 Known page IDs:", Object.keys(pageRoutes));
   const body = req.body;
   if (body.object !== "page") return;
 
