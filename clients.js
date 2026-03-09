@@ -15,8 +15,8 @@ const clients = [
     serverUrl: "https://barber-bot-vqfi.onrender.com" // Their Render service URL
   },
   {
-    name: "Anar-salon",                                    // change to real name
-    pageId: "1071789952680910",
+    name: "AMV-CR",                                    // change to real name
+    pageId: "108298074080247",
     serverUrl: "https://barber-bot-1-7maq.onrender.com"  // change to real URL
   },
 
