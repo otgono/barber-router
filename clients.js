@@ -12,7 +12,7 @@ const clients = [
   {
     name: "SHMF",                                    // Client name (for your reference)
     pageId: "110407757165436",                        // Facebook Page ID
-    serverUrl: "https://barber-bot-vqfi.onrender.com" // Their Render service URL
+    serverUrl: "https://barber-bot-shmf.onrender.com" // Their Render service URL
   },
   {
     name: "AMV-CR",                                    // change to real name
